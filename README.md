@@ -7,7 +7,7 @@ To-Do List:
 	
 	- NEED TO FIX - version checking on multiple folders/files, right now keeps resetting variable
 	
-	- NEED TO FIX - too many GLOBAL variables, need to rewrite some of the code to clean this up
+	- NEED TO FIX - too many GLOBAL variables, need to rewrite some of the code to clean this up, (use structs instead?)
 
 	- ADD: "Import Files" button to ScriptDepot that will force popup of ScriptPub
 	
