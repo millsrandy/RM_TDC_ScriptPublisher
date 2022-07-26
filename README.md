@@ -11,8 +11,7 @@ To-Do List:
 
 	- ADD: "Import Files" button to ScriptDepot that will force popup of ScriptPub
 	
-	- ADD: Check if PUB-TOOLS exists, ask user where PUB-TOOLS is located, 
-	if it doesn't exist ask if they'd like to create a PUB-TOOLS folder
+	- ADD: Check if PUB-TOOLS exists, ask user where PUB-TOOLS is located, if it doesn't exist ask if they'd like to create a PUB-TOOLS folder
 	
 	- ADD: package MISSING assets (bmp & txt) with final distro
 
